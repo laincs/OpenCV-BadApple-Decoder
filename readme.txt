@@ -1,0 +1,2 @@
+Hi! This code was programmed by Lâin. It uses OpenCV and numpy to decode the source video in real-time. 
+If you intend to build it yourself, please download and place the original 360x480 video in the source code folder.
